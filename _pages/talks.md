@@ -15,10 +15,10 @@ Workshops
   - Analysis of Big Earth Data with Jupyter Notebooks <br>
   - Dashboarding with Jupyter Notebooks and Voila<br>
 
-- **<a href='https://training.eumetsat.int/course/view.php?id=366' target='_blank'>Using Copernicus Data for Air Quality Applications</a> - *EGU Short Course - 26-29 May 2020*<br>
+- **<a href='https://training.eumetsat.int/course/view.php?id=366' target='_blank'>Using Copernicus Data for Air Quality Applications</a>** - *EGU Short Course - 26-29 May 2020*<br>
 Introduction to practical worfklows and a case study on Covid-19 based on Sentinel-5p and GOME-2 data based on Jupyter notebooks.<br>
 
-- *<a href='https://training.eumetsat.int/course/view.php?id=360' target='_blank'>User workshop and training on Fire Monitoring</a> - Webinar series - 11-18 May 2020*<br>
+- **<a href='https://training.eumetsat.int/course/view.php?id=360' target='_blank'>User workshop and training on Fire Monitoring</a>** - *Webinar series - 11-18 May 2020*<br>
 Daily introductions to practical worfklows and case studies for fire monitoring based on Jupyter notebooks.<br><br>
 
 **2019**
