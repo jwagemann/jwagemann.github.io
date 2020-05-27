@@ -11,13 +11,14 @@ Throughout the year, I attend geospatial conferences where I run workshops on ge
 Workshops
 ------
 **2020**
-- **Analysis of Big Earth Data with Jupyter Notebooks**<br>*<a href='https://opengeohub.org/summer_school_2020' target='_blank'>OpenGeoHub Summer School 2020</a> - Wageningen, Netherlands - 16-22 August 2020*<br>
-- **Dashboarding with Jupyter Notebooks and Voila**<br>*<a href='https://opengeohub.org/summer_school_2020' target='_blank'>OpenGeoHub Summer School 2020</a> - Wageningen, Netherlands - 16-22 August 2020*<br><br>
+- **<a href='https://opengeohub.org/summer_school_2020' target='_blank'>OpenGeoHub Summer School 2020</a>** - *Wageningen, Netherlands - 16-22 August 2020*<br>
+  - Analysis of Big Earth Data with Jupyter Notebooks <br>
+  - Dashboarding with Jupyter Notebooks and Voila<br>
 
-- **Using Copernicus data for Air Quality Applications**><br>*<a href='https://training.eumetsat.int/course/view.php?id=366' target='_blank'>EGU 2020 Short Course, jointhly organised by EUMETSAT, ESA and ECMWF-CAMS</a> - Webinar - 26-29 May 2020*<br>
-Introduction to practical worfklows and a case study on Covid-19 based on Sentinel-5p and GOME-2 data based on Jupyter notebooks.<br><br>
+- **<a href='https://training.eumetsat.int/course/view.php?id=366' target='_blank'>Using Copernicus Data for Air Quality Applications</a> - *EGU Short Course - 26-29 May 2020*<br>
+Introduction to practical worfklows and a case study on Covid-19 based on Sentinel-5p and GOME-2 data based on Jupyter notebooks.<br>
 
-- **User workshop and training on Fire Monitoring**><br>*<a href='https://training.eumetsat.int/course/view.php?id=360' target='_blank'>EGU 2020 Short Course organised by EUMETSAT, ESA and ECMWF-CAMS</a> - Webinar - 11-18 May 2020*<br>
+- *<a href='https://training.eumetsat.int/course/view.php?id=360' target='_blank'>User workshop and training on Fire Monitoring</a> - Webinar series - 11-18 May 2020*<br>
 Daily introductions to practical worfklows and case studies for fire monitoring based on Jupyter notebooks.<br><br>
 
 **2019**
