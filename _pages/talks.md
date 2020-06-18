@@ -11,8 +11,8 @@ Throughout the year, I attend geospatial conferences where I run workshops on ge
 Podcast
 ------
 **June 2020** <br>
-I recently sat down with Daniel O'Donohue from [The MapScaping Podcast](https://mapscaping.com/blogs/the-mapscaping-podcast) and talked all things [Project Jupyter](https://jupyter.org/): what it is, why it is great and how it can boost the reproducibility of your research.
-Tune in on [Apple](https://buff.ly/2X6nMNW), [Android](https://buff.ly/2O3kuH5), [Spotify](https://buff.ly/2X7Ym2k)
+I recently sat down with Daniel O'Donohue from [The MapScaping Podcast](https://mapscaping.com/blogs/the-mapscaping-podcast) and talked all things [Project Jupyter](https://jupyter.org/): what it is, why it is great and how it can boost the reproducibility of your research.<br>
+Tune in on [Apple](https://buff.ly/2X6nMNW), [Android](https://buff.ly/2O3kuH5) or [Spotify](https://buff.ly/2X7Ym2k).
 
 
 Workshops
