@@ -8,6 +8,13 @@ author_profile: true
 Throughout the year, I attend geospatial conferences where I run workshops on geospatial data analysis or give presentations on open meteorological and climate data and my PhD research. You find a selection of the most recent workshops / conference talks below.
 
 
+Podcast
+------
+**June 2020**
+I recently sat down with Daniel O'Donohue from [The MapScaping Podcast](https://mapscaping.com/blogs/the-mapscaping-podcast) and talked all things [Project Jupyter](https://jupyter.org/): what it is, why it is great and how it can boost the reproducibility of your research.
+Tune in on [Apple](https://buff.ly/2X6nMNW), [Android](https://buff.ly/2O3kuH5), [Spotify](https://buff.ly/2X7Ym2k)
+
+
 Workshops
 ------
 **2020**
