@@ -10,7 +10,7 @@ Throughout the year, I attend geospatial conferences where I run workshops on ge
 
 Podcast
 ------
-**June 2020**
+**June 2020** <br>
 I recently sat down with Daniel O'Donohue from [The MapScaping Podcast](https://mapscaping.com/blogs/the-mapscaping-podcast) and talked all things [Project Jupyter](https://jupyter.org/): what it is, why it is great and how it can boost the reproducibility of your research.
 Tune in on [Apple](https://buff.ly/2X6nMNW), [Android](https://buff.ly/2O3kuH5), [Spotify](https://buff.ly/2X7Ym2k)
 
@@ -38,7 +38,7 @@ Daily introductions to practical worfklows and case studies for fire monitoring 
 Conference talks
 ------
 **2020**
-- - <a href='https://presentations.copernicus.org/EGU2020/EGU2020-10029_presentation.pdf' target='_blank'>Bridging the gap between Big Earth Data Users and future (cloud-based) data systems - Towards a better understanding of user requirements of cloud-based data systems</a><br>*EGUShare 2020 - Virtual - 7 May 2020* <br>
+- <a href='https://presentations.copernicus.org/EGU2020/EGU2020-10029_presentation.pdf' target='_blank'>Bridging the gap between Big Earth Data Users and future (cloud-based) data systems - Towards a better understanding of user requirements of cloud-based data systems</a><br>*EGUShare 2020 - Virtual - 7 May 2020* <br>
 
 **2019**
 - <a href='https://speakerdeck.com/jwagemann/era5-climate-reanalysis-in-earth-engine' target='_blank'>Copernicus climate reanalysis ERA5 in Google Earth Engine</a><br>*Earth Engine Virtual Meetup - Virtual - 4 December 2019* <br>
