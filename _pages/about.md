@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I am Julia and I am a <font color='#2aa198'>independent consultant, PhD candidate and community builder</font> on a mission to make open meteorological, climate and atmospheric data better accessible. My work is in the intersection between data users and data providers. I am a strong believer in the leverage of open-source geospatial software and in bringing different Earth Science communities together in order to make the best use of open geospatial data.<br>
+Hi, I am Julia and I am an <font color='#2aa198'>independent consultant, PhD candidate and community builder</font> on a mission to make open meteorological, climate and atmospheric data better accessible. My work is in the intersection between data users and data providers. I am a strong believer in the leverage of open-source geospatial software and in bringing different Earth Science communities together in order to make the best use of open geospatial data.<br>
 You can find me on [Twitter](https://twitter.com/JuliaWagemann), [GitHub](https://github.com/jwagemann) and [LinkedIn](https://www.linkedin.com/in/julia-wagemann/).
 
 - Independent consultant - Geospatial data and systems
@@ -27,7 +27,7 @@ I pursue a [PhD at the Faculty of Geography at University of Marburg](http://vhr
 
 - Community builder
 ------
-  - *Member of the Organising Committee* - New Space Workshop | Open Geospatial Consortium
+  - *Member of the Organising Committee* - New Space Workshop - Open Geospatial Consortium
   - *Program track Co-Chair Posters* - [JupyterCon 2020](https://jupytercon.com/)
   - *Co-Founder* - [Women in Geospatial network](https://womeningeospatial.org) - A professional network for women in the geospatial domain to promote gender diversity in the geospatial field. [Join us!](bit.ly/womeningeospatial_signup)
   - *Co-Founder* - [Glocal LifeLearn e.V.](https://glocal-lifelearn.org) - A NGO that is supporting education initiatives worldwide, aiming to give disadvantaged children access to education. 
