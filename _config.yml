@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julia Wagemann - Geospatial data consultant"
+title                    : "Julia Wagemann - Independent consultant | Geospatial data and systems"
 title_separator          : "-"
 name                     : "Julia Wagemann"
 description              : "Making meteorological, climate and atmospheric data better accessible"
-url                      : "https://jwagemann.github.io"
+url                      : "https://jwagemann.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jwagemann/jwagemann.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "wagemann.julia@gmx.de"
+  email            : "julia@jwagemann.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
