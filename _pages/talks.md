@@ -19,8 +19,8 @@ Workshops
 ------
 **2020**
 - **<a href='https://opengeohub.org/summer_school_2020' target='_blank'>OpenGeoHub Summer School 2020</a>** - *Wageningen, Netherlands - 16-22 August 2020*<br>
-  - Analysis of Big Earth Data with Jupyter Notebooks <br>
-  - Dashboarding with Jupyter Notebooks and Voila<br>
+  - [Analysis of Big Earth Data with Jupyter Notebooks](https://github.com/jwagemann/2020_analysis_of_big_earth_data_with_jupyter) <br>
+  - [Dashboarding with Jupyter Notebooks and Voilà](https://github.com/jwagemann/dashboarding_jupyter_voila)<br>
 
 - **<a href='https://training.eumetsat.int/course/view.php?id=366' target='_blank'>Using Copernicus Data for Air Quality Applications</a>** - *EGU Short Course - 26-29 May 2020*<br>
 Introduction to practical worfklows and a case study on Covid-19 based on Sentinel-5p and GOME-2 data based on Jupyter notebooks.<br>
