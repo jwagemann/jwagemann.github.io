@@ -18,12 +18,21 @@ Tune in on [Apple](https://buff.ly/2X6nMNW), [Android](https://buff.ly/2O3kuH5) 
 Workshops
 ------
 **2020**
+- **<a href='https://atmostraining.info/index.php/2020/09/14/next-event-title/#more-130' target='_blank'>Second Joint ESA/EUMETSAT/ECMWF Online Training Course on Atmospheric Composition</a>*Training School - 16-20 November 2020*<br>
+Practical introduction to work with Atmospheric Composition data, including Sentinel-5p, Sentinel-3 and data from the Copernicus Atmosphere Monitoring Service (CAMS), based on Python and Jupyter notebooks.
+
+- **<a href='https://training.eumetsat.int/course/index.php?categoryid=97' target='_blank'>A summer of fires - The 2020 wild fire season</a>*EUMETSAT Short Course Series - 14 + 19 October 2020*<br>
+Download, plot and explore new fire products and aerosol data to characterize the fire plumes evolution and position during the 2020 wildfire season using Jupyter Notebooks.<br>
+
+- **<a href='https://wekeo.eu/web/guest/news/-/blogs/wekeo-online-training-workshop-focus-on-atmospheric-data-products' target='_blank'>WEkEO Training Workshop - Focus on Atmospheric Data Products</a>** - 8 + 29 October 2020*<br>
+Introduction to Air Quality data available through [WEkEO](https://wekeo.eu), a cloud-based data system offering access to and processing of Copernicus data, including data from Sentinel-3, Sentinel-5p and the Copernicus Atmosphere Monitoring Service (CAMS).<br>
+
 - **<a href='https://opengeohub.org/summer_school_2020' target='_blank'>OpenGeoHub Summer School 2020</a>** - *Wageningen, Netherlands - 16-22 August 2020*<br>
-  - [Analysis of Big Earth Data with Jupyter Notebooks](https://github.com/jwagemann/2020_analysis_of_big_earth_data_with_jupyter) <br>
-  - [Dashboarding with Jupyter Notebooks and Voilà](https://github.com/jwagemann/dashboarding_jupyter_voila)<br>
+  - *Analysis of Big Earth Data with Jupyter Notebooks* [[Github]](https://github.com/jwagemann/2020_analysis_of_big_earth_data_with_jupyter) [[recording]](https://www.youtube.com/watch?v=HHut0XYr10g&list=PLXUoTpMa_9s0Ea--KTV1OEvgxg-AMEOGv&index=12) <br>
+  - *Dashboarding with Jupyter Notebooks and Voilà* [[Github]](https://github.com/jwagemann/dashboarding_jupyter_voila) [[recording]](https://www.youtube.com/watch?v=nQArO4eW1oI&list=PLXUoTpMa_9s0Ea--KTV1OEvgxg-AMEOGv&index=11)<br>
 
 - **<a href='https://training.eumetsat.int/course/view.php?id=366' target='_blank'>Using Copernicus Data for Air Quality Applications</a>** - *EGU Short Course - 26-29 May 2020*<br>
-Introduction to practical worfklows and a case study on Covid-19 based on Sentinel-5p and GOME-2 data based on Jupyter notebooks.<br>
+Introduction to practical workflows and a case study on Covid-19 based on Sentinel-5p and GOME-2 data based on Jupyter notebooks.<br>
 
 - **<a href='https://training.eumetsat.int/course/view.php?id=360' target='_blank'>User workshop and training on Fire Monitoring</a>** - *Webinar series - 11-18 May 2020*<br>
 Daily introductions to practical worfklows and case studies for fire monitoring based on Jupyter notebooks.<br><br>
@@ -38,6 +47,7 @@ Daily introductions to practical worfklows and case studies for fire monitoring 
 Conference talks
 ------
 **2020**
+- <a href='https://cfp.jupytercon.com/2020/schedule/presentation/167/how-to-avoid-death-by-jupyter-notebooks-towards-more-effective-and-educational-notebooks/' target='_blank'>How to avoid death by Jupyter notebooks - Towards more effective and educational notebooks</a><br>*JupyterCon2020 - Virtual - 16 Oct 2020* <br>
 - <a href='https://presentations.copernicus.org/EGU2020/EGU2020-10029_presentation.pdf' target='_blank'>Bridging the gap between Big Earth Data Users and future (cloud-based) data systems - Towards a better understanding of user requirements of cloud-based data systems</a><br>*EGUShare 2020 - Virtual - 7 May 2020* <br>
 
 **2019**
