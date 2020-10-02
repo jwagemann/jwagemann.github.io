@@ -18,10 +18,10 @@ Tune in on [Apple](https://buff.ly/2X6nMNW), [Android](https://buff.ly/2O3kuH5) 
 Workshops
 ------
 **2020**
-- **<a href='https://atmostraining.info/index.php/2020/09/14/next-event-title/#more-130' target='_blank'>Second Joint ESA/EUMETSAT/ECMWF Online Training Course on Atmospheric Composition</a>*Training School - 16-20 November 2020*<br>
+- **<a href='https://atmostraining.info/index.php/2020/09/14/next-event-title/#more-130' target='_blank'>Second Joint ESA/EUMETSAT/ECMWF Online Training Course on Atmospheric Composition</a>** *Training School - 16-20 November 2020*<br>
 Practical introduction to work with Atmospheric Composition data, including Sentinel-5p, Sentinel-3 and data from the Copernicus Atmosphere Monitoring Service (CAMS), based on Python and Jupyter notebooks.
 
-- **<a href='https://training.eumetsat.int/course/index.php?categoryid=97' target='_blank'>A summer of fires - The 2020 wild fire season</a>*EUMETSAT Short Course Series - 14 + 19 October 2020*<br>
+- **<a href='https://training.eumetsat.int/course/index.php?categoryid=97' target='_blank'>A summer of fires - The 2020 wild fire season</a>** *EUMETSAT Short Course Series - 14 + 19 October 2020*<br>
 Download, plot and explore new fire products and aerosol data to characterize the fire plumes evolution and position during the 2020 wildfire season using Jupyter Notebooks.<br>
 
 - **<a href='https://wekeo.eu/web/guest/news/-/blogs/wekeo-online-training-workshop-focus-on-atmospheric-data-products' target='_blank'>WEkEO Training Workshop - Focus on Atmospheric Data Products</a>** - 8 + 29 October 2020*<br>
