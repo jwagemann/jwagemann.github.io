@@ -27,6 +27,7 @@ Download, plot and explore new fire products and aerosol data to characterize th
 
 - **<a href='https://wekeo.eu/web/guest/news/-/blogs/wekeo-online-training-workshop-focus-on-atmospheric-data-products' target='_blank'>WEkEO Training Workshop - Focus on Atmospheric Data Products</a>** - *8+29 October 2020*<br>
 Introduction to Air Quality data available through [WEkEO](https://wekeo.eu), a cloud-based data system offering access to and processing of Copernicus data, including data from Sentinel-3, Sentinel-5p and the Copernicus Atmosphere Monitoring Service (CAMS).<br>
+**[[Recording]](https://www.youtube.com/watch?v=J14iyz_c7Vg)**
 
 - **<a href='https://opengeohub.org/summer_school_2020' target='_blank'>OpenGeoHub Summer School 2020</a>** - *Wageningen, Netherlands - 16-22 August 2020*<br>
   - *Analysis of Big Earth Data with Jupyter Notebooks* **[[Github]](https://github.com/jwagemann/2020_analysis_of_big_earth_data_with_jupyter)** **[[Recording]](https://www.youtube.com/watch?v=HHut0XYr10g&list=PLXUoTpMa_9s0Ea--KTV1OEvgxg-AMEOGv&index=12)** <br>
