@@ -7,10 +7,14 @@ author_profile: true
 
 Articles (peer-reviewed)
 ---------------
-- Wagemann, J., Clements, O., Marco Figuera, R., Rossi, A.P. & S. Mantovani (2017): [Geospatial web services pave new ways for server-based on-demand access and processing of Big Earth Data](https://www.researchgate.net/publication/318469494_Geospatial_web_services_pave_new_ways_for_server-based_on-demand_access_and_processing_of_Big_Earth_Data). International Journal of Digital Earth 11/1: 7-25.
+- Wagemann. J., Mantovani,S. & F. Fierli (2021): LTPy - Learning tool for Python on Atmospheric Composition. Journal of Open Source Education. *(submitted)*
+
+- Wagemann, J., Siemen, S., Seeger, B. & J. Bendix (2021): Users of Big Earth Data - An analysis of the current state. Computers and Geosciences. *(under review)*
+
+- Wagemann, J., Clements, O., Marco Figuera, R., Rossi, A.P. & S. Mantovani (2018): [Geospatial web services pave new ways for server-based on-demand access and processing of Big Earth Data](https://www.tandfonline.com/doi/full/10.1080/17538947.2017.1351583). International Journal of Digital Earth 11/1: 7-25. *doi: 10.1080/17538947.2017.1351583*
 
 
-- Wagemann, J., Thies, B., Rollenbeck, R. & J. Bendix (2015): [Regionalization of wind-speed data to analyse tree-line wind conditions in the eastern Andes of souther Ecuador](https://www.researchgate.net/publication/274378611_Regionalization_of_wind-speed_data_to_analyse_tree-line_wind_conditions_in_the_eastern_Andes_of_southern_Ecuador). Erdkunde 69/1:3-19.
+- Wagemann, J., Thies, B., Rollenbeck, R. & J. Bendix (2015): [Regionalization of wind-speed data to analyse tree-line wind conditions in the eastern Andes of souther Ecuador](https://www.erdkunde.uni-bonn.de/archive/2015/regionalization-of-wind-speed-data-to-analyse-tree-line-wind-conditions-in-the-eastern-andes-of-southern-ecuador). Erdkunde 69/1:3-19. *doi: 10.3112/erdkunde.2015.01.01*
 
 
 Book chapters (peer-reviewed)
