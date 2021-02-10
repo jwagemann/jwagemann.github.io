@@ -8,16 +8,29 @@ author_profile: true
 Throughout the year, I attend geospatial conferences where I run workshops on geospatial data analysis or give presentations on open meteorological and climate data and my PhD research. You find a selection of the most recent workshops / conference talks below.
 
 
-Podcast
+2021
 ------
-**June 2020** <br>
-I recently sat down with Daniel O'Donohue from [The MapScaping Podcast](https://mapscaping.com/blogs/the-mapscaping-podcast) and talked all things [Project Jupyter](https://jupyter.org/): what it is, why it is great and how it can boost the reproducibility of your research.<br>
-Tune in on [Apple](https://buff.ly/2X6nMNW), [Android](https://buff.ly/2O3kuH5) or [Spotify](https://buff.ly/2X7Ym2k).
+**Workshops**
+- **<a href='https://training.eumetsat.int/course/view.php?id=395' target='_blank'>The ozone hole tour</a>** - *EUMETSAT Short Course Series - 18+22 February 2021*<br>
+Practical introduction to work with the ozone datasets from the GOME-2 and IASI instruments aboard Metop-A/B/C. The course analyses the ozone hole in 2020 for the Arctic and Antarctic.
+
+**Conference talks**
+- <a href='https://events.ecmwf.int/event/211/timetable/' target='_blank'>Bridging the gap between Big Earth Data users and future (cloud-based) data systems - Towards a better understanding of user requirements of cloud-based data systems</a><br>*Weather and Climate in the cloud - Virtual - 10 Feb 2021* <br>
+**[[Slides]](https://speakerdeck.com/jwagemann/bridging-the-gap-between-big-earth-data-users-and-future-cloud-based-data-systems)** **[[Recording]](M)**
+
 
 
 2020
 ------
+
+**Podcast** <br>
+I recently sat down with Daniel O'Donohue from [The MapScaping Podcast](https://mapscaping.com/blogs/the-mapscaping-podcast) and talked all things [Project Jupyter](https://jupyter.org/): what it is, why it is great and how it can boost the reproducibility of your research.<br>
+Tune in on [Apple](https://buff.ly/2X6nMNW), [Android](https://buff.ly/2O3kuH5) or [Spotify](https://buff.ly/2X7Ym2k).
+
 **Workshops**
+- **<a href='https://training.eumetsat.int/course/view.php?id=380' target='_blank'>What is a gridded dataset and how to create it?</a>** - *EUMETSAT Short Course Series - 9+14 December 2020*<br>
+Download, plot and explore GOME-2 Level 2 data, build a gridded (Level-3) dataset of Europe and run basic statistics using Jupyter Notebooks.
+
 - **<a href='https://atmostraining.info/index.php/2020/09/14/next-event-title/#more-130' target='_blank'>Second Joint ESA/EUMETSAT/ECMWF Online Training Course on Atmospheric Composition</a>** - *Training School - 16-20 November 2020*<br>
 Practical introduction to work with Atmospheric Composition data, including Sentinel-5p, Sentinel-3 and data from the Copernicus Atmosphere Monitoring Service (CAMS), based on Python and Jupyter notebooks.
 
