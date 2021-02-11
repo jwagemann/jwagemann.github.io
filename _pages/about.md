@@ -33,7 +33,7 @@ I pursue a [PhD at the Faculty of Geography at University of Marburg](http://vhr
 
 - Leadership and Community builder
 ------
-  - Selected as one of 100 participants worldwide for [Homeward Bound](https://homewardboundprojects.com.au/), a one-year long online leadership program for women in STEMM
+  - Selected as one of 100 participants worldwide for [Homeward Bound](https://homewardboundprojects.com.au/hb6/hb6-2021-participants/), a one-year long online leadership program for women in STEMM
   - *Member of the Organising Committee* - [New Space Workshop - Europe](https://www.ogc.org/ogcevents/ogc-new-space-workshop-europe) - Open Geospatial Consortium
   - *Program track Co-Chair Posters* - [JupyterCon 2020](https://jupytercon.com/)
   - *Co-Founder* - [Women in Geospatial+ network](https://womeningeospatial.org) - A professional network for women+ in geospatial to promote gender diversity in the geospatial industry and academia. [Join us!](bit.ly/womeningeospatial_signup)
