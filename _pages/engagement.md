@@ -7,7 +7,7 @@ author_profile: true
 
 Women in Geospatial network
 ------
-I initiated the [Women in Geospatial network](https://twitter.com/geospatialwomen), a professional network for women in the geospatial domain in order to promote gender-equality in the geospatial industry. The network provides its members opportunities to network and suppport each other, via a mailing list and Slack channel. We also organise informal gatherings and public Women in Geospatial sessions during conferences. If you are interested to join, you can fill in this [form](https://bit.ly/womeningeospatial_signup) or [reach out](mailto:geospatialwomen@gmail.com) to us, if you would like to discuss something else.
+I initiated the [Women in Geospatial+ network](https://womeningeospatial.org), a professional network for women+ to promote gender-equality in the geospatial industry and academia. The network provides its members opportunities to network and suppport each other, via a mailing list and Slack channel. Activities include a [global mentorship program](https://www.womeningeospatial.org/join/mentorship), a [speakers database](https://speakers.womeningeospatial.org/speakers) of women+ in the geospatial domain and a [webinar series on career development](https://www.womeningeospatial.org/events/webinar-series). If you are interested to join, you can fill in this [form](https://bit.ly/womeningeospatial_signup) or [reach out](mailto:womeningeospatial@gmail.com) to us, if you would like to discuss something else.
 
 
 NGO Glocal LifeLearn e.V.
