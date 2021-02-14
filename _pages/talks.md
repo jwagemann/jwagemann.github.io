@@ -15,7 +15,7 @@ Throughout the year, I attend geospatial conferences where I run workshops on ge
 Practical introduction to work with the ozone datasets from the GOME-2 and IASI instruments aboard Metop-A/B/C. The course analyses the ozone hole in 2020 for the Arctic and Antarctic.
 
 **Conference talks**
-- <a href='https://events.ecmwf.int/event/211/timetable/' target='_blank'>Bridging the gap between Big Earth Data users and future (cloud-based) data systems - Towards a better understanding of user requirements of cloud-based data systems</a><br>*Weather and Climate in the cloud - Virtual - 10 Feb 2021* <br>
+- <a href='https://events.ecmwf.int/event/211/timetable/' target='_blank'>Bridging the gap between Big Earth Data users and future (cloud-based) data systems - Towards a better understanding of user requirements of cloud-based data systems</a><br>*ECMWF Virtual workshop: Weather and climate in the cloud - 10 Feb 2021* <br>
 **[[Slides]](https://speakerdeck.com/jwagemann/bridging-the-gap-between-big-earth-data-users-and-future-cloud-based-data-systems)** **[[Recording]](https://vimeo.com/510829944)**
 
 
