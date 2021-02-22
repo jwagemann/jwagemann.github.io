@@ -7,7 +7,7 @@ author_profile: true
 
 Articles (peer-reviewed)
 ---------------
-- Wagemann. J., Mantovani,S. & F. Fierli (2021): LTPy - Learning tool for Python on Atmospheric Composition. Journal of Open Source Education. *(submitted)*
+- Wagemann. J., Mantovani,S. & F. Fierli (2021): [LTPy - Learning tool for Python on Atmospheric Composition](https://github.com/openjournals/jose-reviews/issues/108). Journal of Open Source Education. *(submitted)*
 
 - Wagemann, J., Siemen, S., Seeger, B. & J. Bendix (2021): Users of Big Earth Data - An analysis of the current state. Computers and Geosciences. *(under review)*
 
@@ -22,7 +22,3 @@ Book chapters (peer-reviewed)
 - Baumann, P., Rossi, A.P., Bell, B., Clements, O., Evans, B., Hoenig, H., Hogan, P., Kakaletris, G., Koltsida, P., Mantovani, S., Marco Figuera, R., Mericariu, V.C., Misev, D., Pham, H.B., Siemen, S. & J. Wagemann (2018): [Fostering Cross-Disciplinary Earth Science Through Datacube Analytics](https://www.researchgate.net/publication/322660086_Fostering_Cross-Disciplinary_Earth_Science_Through_Datacube_Analytics). In: P.P. Mathieu, C. Aubrecht (eds.), Earth Observation Open Science and Innovation.
 
 - Bendix, J., Dislich, C., Huth, A., Huwe, B., Liess, M., Schroeder, B., Thies, B., Vorpahl, P., Wagemann, J. & W. Wilcke (2013): [Natural Landslides Which Impact Current Regulating Services: Environmental Preconditions and Modeling](https://www.researchgate.net/publication/257197393_Natural_Landslides_Which_Impact_Current_Regulating_Services_Environmental_Preconditions_and_Modeling). In: J. Bendix et. al. (eds.),Ecosystem Services, Biodiversity and Environmental Change in a Tropical Mountain Ecosystem of South Ecuador. 1st Edition. Berlin, Heidelberg.
-
-
-
-
